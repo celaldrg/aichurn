@@ -12,5 +12,7 @@ updates:
     schedule:
       interval: weekly
     ignore:
+      # the MSRV job pins dtolnay/rust-toolchain@1.78 on purpose
+      - dependency-name: "dtolnay/rust-toolchain"
       - dependency-name: "*"
         update-types: ["version-update:semver-major"]
