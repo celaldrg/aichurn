@@ -1,0 +1,21 @@
+[package]
+name = "aichurn"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.78"
+description = "Does AI-written code get rewritten faster? Two-week churn, copy/paste and moved code from your git history, split by AI-assisted vs human commits."
+license = "MIT"
+repository = "https://github.com/celaldrg/aichurn"
+homepage = "https://github.com/celaldrg/aichurn#readme"
+readme = "README.md"
+keywords = ["git", "churn", "ai", "code-quality", "metrics"]
+categories = ["command-line-utilities", "development-tools"]
+authors = ["Celalettin Durğaç"]
+exclude = ["docs/", "scripts/", ".github/"]
+
+[dependencies]
+
+[profile.release]
+lto = true
+codegen-units = 1
+strip = true

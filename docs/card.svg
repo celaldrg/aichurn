@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-label="7.1% of new lines were rewritten or deleted within 14 days. Lines from AI-assisted commits churned 1.5× as often as human lines (10% vs 6.7%).">
+<rect width="600" height="330" rx="14" fill="#0d1117" stroke="#30363d"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<text x="28" y="40" font-size="13" fill="#2dd4bf" font-weight="600">aichurn</text><text x="88" y="40" font-size="13" fill="#7d8590">denoland/deno · 4,688 commits</text>
+<text x="28" y="98" font-size="52" font-weight="700" fill="#e6edf3">7.1%</text>
+<text x="28" y="124" font-size="13" fill="#7d8590">of new lines rewritten within 14 days</text>
+<text x="340" y="62" font-size="12" fill="#7d8590">churn · AI-assisted</text><text x="340" y="88" font-size="22" font-weight="600" fill="#fb923c">10%</text>
+<text x="470" y="62" font-size="12" fill="#7d8590">churn · human</text><text x="470" y="88" font-size="22" font-weight="600" fill="#e6edf3">6.7%</text>
+<text x="340" y="112" font-size="12" fill="#7d8590">copy/paste</text><text x="340" y="138" font-size="22" font-weight="600" fill="#e6edf3">5.6%</text>
+<text x="470" y="112" font-size="12" fill="#7d8590">moved</text><text x="470" y="138" font-size="22" font-weight="600" fill="#e6edf3">6.8%</text>
+<line x1="28" y1="290" x2="572" y2="290" stroke="#30363d"/>
+<rect x="30.0" y="193.3" width="56.0" height="96.7" rx="2" fill="#14b8a6"><title>2024-Q4: 9.4%</title></rect><text x="58.0" y="303" font-size="9" fill="#7d8590" text-anchor="middle">2024-Q4</text>
+<rect x="90.0" y="201.1" width="56.0" height="88.9" rx="2" fill="#14b8a6"><title>2025-Q1: 8.6%</title></rect><text x="118.0" y="303" font-size="9" fill="#7d8590" text-anchor="middle">2025-Q1</text>
+<rect x="150.0" y="227.3" width="56.0" height="62.7" rx="2" fill="#14b8a6"><title>2025-Q2: 6.1%</title></rect><text x="178.0" y="303" font-size="9" fill="#7d8590" text-anchor="middle">2025-Q2</text>
+<rect x="210.0" y="214.7" width="56.0" height="75.3" rx="2" fill="#14b8a6"><title>2025-Q3: 7.3%</title></rect><text x="238.0" y="303" font-size="9" fill="#7d8590" text-anchor="middle">2025-Q3</text>
+<rect x="270.0" y="225.7" width="56.0" height="64.3" rx="2" fill="#14b8a6"><title>2025-Q4: 6.2%</title></rect><rect x="270.0" y="289.6" width="56.0" height="0.4" fill="#fb923c"/><text x="298.0" y="303" font-size="9" fill="#7d8590" text-anchor="middle">2025-Q4</text>
+<rect x="330.0" y="180.0" width="56.0" height="110.0" rx="2" fill="#14b8a6"><title>2026-Q1: 11%</title></rect><rect x="330.0" y="254.9" width="56.0" height="35.1" fill="#fb923c"/><text x="358.0" y="303" font-size="9" fill="#7d8590" text-anchor="middle">2026-Q1</text>
+<rect x="390.0" y="222.5" width="56.0" height="67.5" rx="2" fill="#14b8a6"><title>2026-Q2: 6.5%</title></rect><rect x="390.0" y="273.8" width="56.0" height="16.2" fill="#fb923c"/><text x="418.0" y="303" font-size="9" fill="#7d8590" text-anchor="middle">2026-Q2</text>
+<rect x="450.0" y="270.8" width="56.0" height="19.2" rx="2" fill="#14b8a6"><title>2026-Q3: 1.9%</title></rect><rect x="450.0" y="290.0" width="56.0" height="0.0" fill="#fb923c"/><text x="478.0" y="303" font-size="9" fill="#7d8590" text-anchor="middle">2026-Q3</text>
+<rect x="420" y="164" width="9" height="9" fill="#fb923c"/><text x="434" y="172" font-size="11" fill="#7d8590">from AI-assisted commits</text>
+<text x="28" y="172" font-size="11" fill="#7d8590">churn per quarter · 2024-10-28 → 2026-10-26 · github.com/celaldrg/aichurn</text>
+</g></svg>
